@@ -1,4 +1,4 @@
-# ai-task-assistant
+# Ai-Task-Assistant
 1. MVP Kapsamı (AI Asistanlı Uygulama)
 
 1.1 Ürün Tanımı
